@@ -1,5 +1,4 @@
-# geradorQrCode
-### Gerador de QR Code
+# Gerador de QR Code
 
 Este projeto é uma aplicação simples para gerar QR Codes a partir de URLs ou textos inseridos pelo usuário. Ele utiliza a API pública [QR Code Generator API](https://goqr.me/api/) para criar os códigos de forma dinâmica e exibi-los na página.
 
