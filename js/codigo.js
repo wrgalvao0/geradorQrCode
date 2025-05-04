@@ -13,6 +13,6 @@ botao.addEventListener('click', () => {
     console.log(img)
     container.appendChild(img)
     img.onload  = () =>{
-        botao.textContent = 'Código Criado!'
+        botao.textContent = 'QR CODE Criado!'
     }
 })
